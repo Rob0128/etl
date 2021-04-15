@@ -1,1 +1,1 @@
-# etl practice project. Guided by youtube tutorial. 
+# ETL practice project. Guided by youtube tutorial. 
